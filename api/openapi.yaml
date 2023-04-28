@@ -14,7 +14,7 @@ externalDocs:
   url: http://swagger.io
 servers:
 - description: wabli-deploy-test
-  url: http://83.212.100.226:4008/v1
+  url: https://83.212.100.226:4008/v1
 security:
 - {}
 tags:
